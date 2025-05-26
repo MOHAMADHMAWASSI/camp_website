@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Home",
+    "cabins": "Cabins",
+    "activities": "Activities",
+    "map": "Map",
+    "contact": "Contact",
+    "gallery": "Gallery",
+    "signIn": "Sign In",
+    "profile": "Profile",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Experience Nature's Beauty at WildScape Camping",
+      "subtitle": "Discover the perfect blend of adventure and comfort in our scenic camping grounds",
+      "exploreCabins": "Explore Cabins",
+      "discoverActivities": "Discover Activities"
+    },
+    "featuredCabins": {
+      "title": "Featured Cabins",
+      "subtitle": "Discover our most popular accommodations, each offering a unique blend of comfort and natural beauty",
+      "viewAll": "View all cabins"
+    },
+    "activities": {
+      "title": "Popular Activities",
+      "subtitle": "Explore exciting adventures for all ages and experience levels, led by our expert guides",
+      "viewAll": "View all activities"
+    },
+    "map": {
+      "title": "Interactive Campsite Map",
+      "subtitle": "Explore our campground layout to find the perfect cabin location for your stay",
+      "viewFull": "Explore full interactive map"
+    },
+    "testimonials": {
+      "title": "What Our Guests Say",
+      "subtitle": "Hear from those who have experienced the magic of WildScape Camping firsthand"
+    },
+    "specialOffers": {
+      "title": "Special Offers",
+      "subtitle": "Take advantage of our limited-time deals and seasonal promotions"
+    },
+    "newsletter": {
+      "title": "Stay Updated with WildScape",
+      "subtitle": "Subscribe to our newsletter for seasonal updates, special offers, and outdoor adventure tips",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "success": "Thank you for subscribing! Check your email soon.",
+      "privacy": "We respect your privacy. Unsubscribe at any time."
+    }
+  },
+  "activities": {
+    "title": "Outdoor Activities",
+    "subtitle": "Explore exciting adventures in nature for all skill levels",
+    "filters": {
+      "title": "Filters",
+      "searchPlaceholder": "Search activities...",
+      "type": "Activity Type",
+      "difficulty": "Difficulty Level",
+      "season": "Season",
+      "price": "Price",
+      "freeOnly": "Show free activities only",
+      "reset": "Reset Filters"
+    },
+    "difficulty": {
+      "easy": "Easy",
+      "moderate": "Moderate",
+      "challenging": "Challenging"
+    },
+    "booking": {
+      "book": "Book Activity",
+      "spots": "spots left",
+      "fullyBooked": "Fully Booked",
+      "viewOnMap": "View on Map",
+      "duration": "Duration",
+      "price": "Price",
+      "free": "Free"
+    }
+  },
+  "cabins": {
+    "title": "Our Cabins",
+    "subtitle": "Discover comfortable accommodations nestled in nature",
+    "filters": {
+      "title": "Filters",
+      "category": "Cabin Type",
+      "priceRange": "Price Range",
+      "capacity": "Guest Capacity",
+      "reset": "Reset Filters"
+    },
+    "categories": {
+      "all": "All Cabins",
+      "standard": "Standard",
+      "family": "Family",
+      "luxury": "Luxury",
+      "group": "Group"
+    },
+    "amenities": "Amenities",
+    "capacity": "Capacity",
+    "perNight": "/night",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "back": "Back"
+  }
+}

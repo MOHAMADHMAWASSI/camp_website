@@ -1,0 +1,1 @@
+// This file is no longer used - all React initialization is in main.tsx

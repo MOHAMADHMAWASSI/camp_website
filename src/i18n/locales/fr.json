@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "cabins": "Chalets",
+    "activities": "Activités",
+    "map": "Carte",
+    "contact": "Contact",
+    "gallery": "Galerie",
+    "signIn": "Connexion",
+    "profile": "Profil",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Découvrez la beauté de la nature au Camping WildScape",
+      "subtitle": "Vivez l'alliance parfaite entre aventure et confort dans notre site de camping panoramique",
+      "exploreCabins": "Explorer les chalets",
+      "discoverActivities": "Découvrir les activités"
+    },
+    "featuredCabins": {
+      "title": "Chalets en vedette",
+      "subtitle": "Découvrez nos hébergements les plus populaires, chacun offrant un mélange unique de confort et de beauté naturelle",
+      "viewAll": "Voir tous les chalets"
+    },
+    "activities": {
+      "title": "Activités populaires",
+      "subtitle": "Explorez des aventures passionnantes pour tous les âges et niveaux, guidées par nos experts",
+      "viewAll": "Voir toutes les activités"
+    },
+    "map": {
+      "title": "Carte interactive du site",
+      "subtitle": "Explorez notre terrain de camping pour trouver l'emplacement parfait pour votre séjour",
+      "viewFull": "Explorer la carte complète"
+    },
+    "testimonials": {
+      "title": "Ce que disent nos clients",
+      "subtitle": "Découvrez les témoignages de ceux qui ont vécu la magie du Camping WildScape"
+    },
+    "specialOffers": {
+      "title": "Offres spéciales",
+      "subtitle": "Profitez de nos promotions à durée limitée et offres saisonnières"
+    },
+    "newsletter": {
+      "title": "Restez informé avec WildScape",
+      "subtitle": "Abonnez-vous à notre infolettre pour recevoir les actualités saisonnières, offres spéciales et conseils d'aventure",
+      "placeholder": "Entrez votre courriel",
+      "subscribe": "S'abonner",
+      "success": "Merci de votre abonnement ! Surveillez votre boîte de réception.",
+      "privacy": "Nous respectons votre vie privée. Désabonnement possible à tout moment."
+    }
+  },
+  "activities": {
+    "title": "Activités de plein air",
+    "subtitle": "Explorez des aventures excitantes dans la nature pour tous les niveaux",
+    "filters": {
+      "title": "Filtres",
+      "searchPlaceholder": "Rechercher des activités...",
+      "type": "Type d'activité",
+      "difficulty": "Niveau de difficulté",
+      "season": "Saison",
+      "price": "Prix",
+      "freeOnly": "Afficher uniquement les activités gratuites",
+      "reset": "Réinitialiser les filtres"
+    },
+    "difficulty": {
+      "easy": "Facile",
+      "moderate": "Modéré",
+      "challenging": "Difficile"
+    },
+    "booking": {
+      "book": "Réserver l'activité",
+      "spots": "places restantes",
+      "fullyBooked": "Complet",
+      "viewOnMap": "Voir sur la carte",
+      "duration": "Durée",
+      "price": "Prix",
+      "free": "Gratuit"
+    }
+  },
+  "cabins": {
+    "title": "Nos chalets",
+    "subtitle": "Découvrez des hébergements confortables nichés dans la nature",
+    "filters": {
+      "title": "Filtres",
+      "category": "Type de chalet",
+      "priceRange": "Fourchette de prix",
+      "capacity": "Capacité d'accueil",
+      "reset": "Réinitialiser les filtres"
+    },
+    "categories": {
+      "all": "Tous les chalets",
+      "standard": "Standard",
+      "family": "Familial",
+      "luxury": "Luxe",
+      "group": "Groupe"
+    },
+    "amenities": "Commodités",
+    "capacity": "Capacité",
+    "perNight": "/nuit",
+    "bookNow": "Réserver",
+    "viewDetails": "Voir les détails"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "success": "Succès",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "confirm": "Confirmer",
+    "back": "Retour"
+  }
+}
